@@ -3,7 +3,7 @@ title: My first Sony
 meta_title: ""
 description: ""
 date: ""
-image: ""
+image: "/images/banner.png"
 category: ""
 author:
   name: ""
@@ -12,4 +12,4 @@ author:
 featured: false
 draft: false
 ---
-
+This is a Blog post
